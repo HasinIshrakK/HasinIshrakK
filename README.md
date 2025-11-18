@@ -1,6 +1,15 @@
 <h1 align="center">Hi, I'm Hasin Ishrak 👋</h1>
 <h3 align="center">MERN Stack Developer from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HasinIshrakK/HasinIshrakK/main/Banner.png" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Hasin+Ishrak;A+MERN+Stack+Developer;From+Bangladesh" />
+</p>
+
+
 <br/>
 
 ## 👨‍💻 About Me
@@ -32,14 +41,14 @@ I enjoy solving problems, learning new technologies, and improving my design + d
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/>
+  </a> -->
+  <a href="mailto:hasinishrakk@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
-  </a>
-  <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40" height="40"/>
+  <a href="https://facebook.com/muhammadhasinishrak" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="20" height="20"/>
   </a>
 </p>
 
