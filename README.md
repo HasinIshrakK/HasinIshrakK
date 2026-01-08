@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hasin Ishrak 👋</h1>
+<h1 align="center">Hi, I'm Md Hasin Ishrak Khan 👋</h1>
 <h3 align="center">MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
@@ -16,10 +16,9 @@
 Passionate MERN stack developer who loves building clean, scalable web applications.  
 I enjoy solving problems, learning new technologies, and improving my design + development workflow.
 
-- 🔭 I’m currently working on a **tourism web application**
+- 🔭 I’m currently working on a **scholarship providing web application**
 - 🌱 I’m exploring **Next.js** for production-ready full-stack projects
 - ⚡ I enjoy combining **design + development** to create meaningful user experiences
-- 💬 Ask me about **MERN, Firebase, REST APIs, UI/UX basics**
 
 <br/>
 
@@ -35,9 +34,9 @@ I enjoy solving problems, learning new technologies, and improving my design + d
 
 ## 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasinishrakk&show_icons=true&locale=en&layout=compact" alt="hasinishrakk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasinIshrakK&show_icons=true&locale=en&layout=compact" alt="HasinIshrakK" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasinishrakk&show_icons=true&locale=en" alt="hasinishrakk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HasinIshrakK&show_icons=true&locale=en" alt="HasinIshrakK" /></p>
 
 ## 📫 Connect With Me  
 <p align="left">
